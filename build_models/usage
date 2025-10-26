@@ -3,3 +3,5 @@ to train TinyVGG : python3 going_modular/train.py
 to train googlenet : python3 going_modular/transfer_train.py
 
 to train vit : python3 going_modular/vit_train.py
+
+path of the models : backend/models/...
