@@ -1,0 +1,10 @@
+.next/
+frontend/.next/
+frentend/node_modules/
+frontend/.env.local
+backend/__pycache__/
+build_models/data/
+build_models/__pycache__/
+build_models/complete_project.ipynb
+build_models/going_modular/
+backend/models/
